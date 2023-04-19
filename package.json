@@ -14,7 +14,10 @@
     "typescript": "^4.6.4"
   },
   "dependencies": {
+    "@solana/spl-token": "^0.3.7",
+    "@solana/spl-token-swap": "^0.2.1",
     "@solana/web3.js": "^1.43.1",
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "@metaplex-foundation/js": "^0.17.12"
   }
 }
